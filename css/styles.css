@@ -1,0 +1,10 @@
+.greeting {
+	text-align: center;
+	font-family: Arial;
+}
+.wickerman {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border-radius: 50%;
+}
